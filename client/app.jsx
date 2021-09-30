@@ -6,3 +6,5 @@ export default class App extends React.Component {
     return <Home />;
   }
 }
+
+// just a test of interactive map
